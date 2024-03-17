@@ -1,0 +1,9 @@
+server/.env
+server/node_modules
+server-new/node_modules
+server-new/.env
+
+client/.env
+client/node_modules
+node_modules
+.env
